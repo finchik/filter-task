@@ -1,4 +1,4 @@
-Портфолио с фильтрами [DEMO](https://finchik,.github.io/filter-task/)
+Портфолио с фильтрами [DEMO](https://finchik.github.io/filter-task/)
 ===
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
